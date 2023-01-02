@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @swaroopajit
+- 👋 Hi, I’m Swaroop Ajit Palayat
+- 🏫 I'm a student at BITS Pilani, Hyderabad campus
 - 🌱 I’m currently learning JS
 - 📫 You can reach me at swaroopajitpalayat@gmail.com
 
