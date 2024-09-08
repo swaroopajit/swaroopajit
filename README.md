@@ -1,5 +1,5 @@
 # About Me
-I'm Swaroop Ajit Palayat, a student at BITS Pilani, Hyderabad campus. I'm an experienced Android Developer with additional experience in computer vision using Tensorflow.js, Yolov7 and OpenCV. I'm currently learning web dev and iOS dev.
+Hi, I’m Swaroop Ajit Palayat, a Software Developer 3 at UST, specializing in Machine Learning and AI. I graduated from BITS Pilani, Hyderabad campus.
 
 ## Reach out
 You can always reach me at swaroopajitpalayat@gmail.com or learn more about me over on [LinkedIn](https://www.linkedin.com/in/swaroop-ajit-palayat-5167631b4/)
